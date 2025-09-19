@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Mini E - Commerce App',
       theme: ThemeData(),
-      home: const LoginView(),
+      home: LoginView(),
     );
   }
 }
